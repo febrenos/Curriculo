@@ -1,0 +1,26 @@
+.centerhome{
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+    align-items: center;
+    height:100%;
+    background-color: #111;
+    
+}
+.centerhome img {
+    margin-top: 20px;
+    width: 150px;
+    border-radius: 100%;
+}
+.centerhome h1{
+    margin: 20px 0px 0 0;
+    font-size: 25px;
+    color: #F3F3F3;
+    text-shadow: black 0.1em 0.1em 0.2em;
+}
+.centerhome h2{
+    font-size: 18px;
+    margin: 0px 0 0 0;
+    color: rgb(0, 161, 22);
+    margin-bottom: 193px;
+}

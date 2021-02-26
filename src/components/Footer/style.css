@@ -1,0 +1,18 @@
+.footer{
+    position: auto;
+    bottom:0;
+    left:0;
+    justify-content: center;
+    background-color: #000;
+
+}
+.infofooter{
+    display: flex;
+    justify-content: center;
+    border-radius: 50%;
+}
+.infofooter h1{
+    margin: 10% 0 10% 0;
+    color: beige;
+    font-size: 15px;
+}
